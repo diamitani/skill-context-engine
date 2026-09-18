@@ -2,7 +2,7 @@
 
 ![Category: Project Management](https://img.shields.io/badge/category-Project%20Management-blue) ![Status: Active](https://img.shields.io/badge/status-active-brightgreen)
 
-A Claude Code skill that turns ephemeral Claude sessions into a persistent, searchable memory layer. Instead of losing context every time a conversation ends, this skill automatically saves, compresses, indexes, and retrieves session history across conversations — so you always know where you left off.
+A Universal AI Agent Skill that turns ephemeral Claude sessions into a persistent, searchable memory layer. Instead of losing context every time a conversation ends, this skill automatically saves, compresses, indexes, and retrieves session history across conversations — so you always know where you left off.
 
 ---
 
@@ -59,7 +59,7 @@ Project Management
 
 ## Author: Patrick Diamitani
 
-GTM AI & Automation Manager at Atlas HXM — building skills and agent workflows for teams of 50+ non-technical users.
+GTM AI & Automation Manager at Enterprise Platform — building skills and agent workflows for teams of 50+ non-technical users.
 
 - GitHub: [diamitani](https://github.com/diamitani)
 - LinkedIn: [linkedin.com/in/diamitani](https://linkedin.com/in/diamitani)
