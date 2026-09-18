@@ -1,15 +1,7 @@
 ---
 name: context-engine
 description: >
-  Persistent session memory layer for Claude. Use this skill ANY TIME someone wants to:
-  save what happened in a session, cache session activity, log progress, retrieve past context,
-  generate a progress or troubleshooting report, do a "context flash" (load last session summary),
-  or run a scheduled memory report. ALWAYS trigger on: "save this session", "cache what we did",
-  "log our progress", "what did we work on last time", "context flash", "load context",
-  "what have we been building", "generate a progress report", "troubleshooting log", "session summary",
-  "memory report", "what's our current state", "recap what worked", or any request to persist, retrieve,
-  or report on past session activity. This skill turns ephemeral Claude sessions into a searchable,
-  compressed, indexed memory layer that survives across conversations.
+  Persistent session memory layer for Claude. Use this skill ANY TIME someone wants to: save what happened in a session, cache session activity, log progress, retrieve past context, generate a progress or troubleshooting report, do a "context flash" (load last session summary), or run a scheduled memory report. ALWAYS trigger on: "save this session", "cache what we did", "log our progress", "what did we work on last time", "context flash", "load context", "what have we been building", "generate a progress report", "troubleshooting log", "session summary", "memory report", "what's our current state", "recap what worked", or any request to persist, retrieve, or report on past session activity. This skill turns ephemeral Claude sessions into a searchable, compressed, indexed memory layer that survives across conversations.
 ---
 
 # ContextEngine — Persistent Session Memory Layer
